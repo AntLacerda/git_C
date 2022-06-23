@@ -1,3 +1,5 @@
+/* Escreva um programa que leia três números e calcule a sua média aritmética.*/
+
 #include <stdio.h>
 
 void main(){
