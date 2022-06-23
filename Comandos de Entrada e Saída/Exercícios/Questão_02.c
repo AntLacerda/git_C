@@ -1,20 +1,22 @@
+/* Escreva um programa que leia trÃªs nÃºmeros e seus respectivos pesos e calcule a sua mÃ©dia ponderada.*/
+
 #include <stdio.h>
  
 int main() {
   int numA, numB, numC;
   int pesoA, pesoB, pesoC;
  
-  printf("Digite o 1º numero: ");
+  printf("Digite o 1Âº numero: ");
   scanf("%d", &numA);
-  printf("Digite o peso do 1º numero: ");
+  printf("Digite o peso do 1Âº numero: ");
   scanf("%d", &pesoA);
-  printf("Digite o 2º numero: ");
+  printf("Digite o 2Âº numero: ");
   scanf("%d", &numB);
-  printf("Digite o peso do 2º numero: ");
+  printf("Digite o peso do 2Âº numero: ");
   scanf("%d", &pesoB);
-  printf("Digite o 3º numero: ");
+  printf("Digite o 3Âº numero: ");
   scanf("%d", &numC);
-  printf("Digite o peso do 3º numero: ");
+  printf("Digite o peso do 3Âº numero: ");
   scanf("%d", &pesoC);
  
   float soma = (numA * pesoA) + (numB * pesoB) + (numC * pesoC);
