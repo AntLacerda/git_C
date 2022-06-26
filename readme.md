@@ -1,1 +1,1 @@
-Olá, mundo! Essa é a primeira tentativa de desenvolver um repositório!
+Esse é um repositório para qualquer conteúdo relacionado a linguagem C!
