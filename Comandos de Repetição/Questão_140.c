@@ -1,3 +1,7 @@
+/*Escreva um programa que leia vários números inteiros e calcule a média dos
+números pares e a média dos números ímpares. O processamento deverá ser
+encerrado quando for lido o valor 0, que não deverá ser processado. */
+
 #include <stdio.h>
 
 void main(){
